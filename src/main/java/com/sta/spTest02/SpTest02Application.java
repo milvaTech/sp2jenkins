@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpTest02Application {
+public  SpTest02Application {
 	private static final Logger log = LoggerFactory.getLogger(SpTest02Application.class);
 	public static void main(String[] args) {
         log.info("---------------------------------------------");
